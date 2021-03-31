@@ -1,2 +1,2 @@
 # fenadi-resolution
-Repository untuk rencana ke depannya
+Repository untuk rencana di tahun 2021
